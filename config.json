@@ -1,12 +1,6 @@
 {
 	"pools":[
 	{
-		"name": "verusfarm",
-        "url": "stratum+tcp://verus.io:9998",
-		"timeout": 150,
-		"disabled": 0
-	},
-	{
 		"name": "verusfarm1",
         "url": "stratum+tcp://verus.farm:9999",
 		"timeout": 150,
